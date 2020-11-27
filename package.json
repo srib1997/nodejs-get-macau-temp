@@ -1,0 +1,14 @@
+{
+  "name": "get-temp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts":{
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "camaro": "^6.0.4",
+    "eyes": "^0.1.8",
+    "xml2js": "^0.4.23"
+  }
+}
